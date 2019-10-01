@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://traffic-prova.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://traffic-prova.herokuapp.com/';
 $BOT_TOKEN = '700703415:AAFWpmUeA1OcF5_mg5g1AEqjAor8Tk5B-eo';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
